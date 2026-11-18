@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -70,9 +70,9 @@ A benchmark of leading 3D character generator and digital human SaaS platforms.
 Curated list of open-source frameworks, WebGL character builders, VRM avatar engines, and parametric mesh editing toolkits.
 
 > [!TIP]  
-> All repositories are sorted in **descending order by GitHub star count**. The badge links directly to each repository's stargazers page.
+> All repositories are sorted in **descending order by GitHub Stars_Count**. The badge links directly to each repository's stargazers page.
 
-| Repository | GitHub Stars | License | Description & Ecosystem Focus |
+| Repository | GitHub_Stars | License | Description & Ecosystem Focus |
 | :--- | :--- | :--- | :--- |
 | 🌟 **[mrdoob/three.js](https://github.com/mrdoob/three.js)** | [![Three.js Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers) | `MIT` | The industry-standard JavaScript 3D library for WebGL/WebGPU; foundational engine for BufferGeometry deformation, morph targets, bones, and skinning. |
 | 🤸 **[yeemachine/kalidokit](https://github.com/yeemachine/kalidokit)** | [![KalidoKit Stars](https://img.shields.io/github/stars/yeemachine/kalidokit?style=social&color=white)](https://github.com/yeemachine/kalidokit/stargazers) | `MIT` | Blendshape kinematic solver mapping MediaPipe and holistic face/hand/body tracking points directly to 3D VRM avatars and 2D Live2D rigs. |
@@ -154,7 +154,7 @@ Thank you to all community contributors and developers building open 3D standard
 1. Fork this repository.
 2. Add your SaaS product or open-source repo into `README.md` maintaining table sorting:
    - **SaaS**: Sorted descending by company scale/valuation. Must include specific tier pricing and exact free tier/trial limits.
-   - **Open-Source**: Sorted descending by GitHub star count with shields.io white social badge.
+   - **Open-Source**: Sorted descending by GitHub Stars_Count with shields.io white social badge.
 3. Provide an accurate 1–2 sentence description highlighting technical capabilities.
 4. Submit a Pull Request with a clear summary.
 
