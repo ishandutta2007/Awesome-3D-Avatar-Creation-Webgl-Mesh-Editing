@@ -1,7 +1,7 @@
 # Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing
 # Awesome-3D-Avatar-Creation-Webgl-Mesh-Editing
 
-# Top 3D Avatar Creation & WebGL Mesh Editing Ecosystem
+## Top 3D Avatar Creation & WebGL Mesh Editing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on 3D Character Generators, VRM/glTF Avatar Studios, WebGL Mesh Deformation & Conversational Digital Humans*  
